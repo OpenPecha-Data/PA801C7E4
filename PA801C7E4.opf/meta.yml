@@ -1,0 +1,31 @@
+id: PA801C7E4
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6164
+  instance_id: http://purl.bdrc.io/resource/IE1KG6164
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་སྐད་རླུང་འཕྲིན་བརྙན་འཕྲིན་གྱི་བཤད་མཁན་དང་འགོ་འཛིན་པའི་ཤེས་བྱ་བློ་གསལ་མགུལ་རྒྱན།
+  alt_title:
+    zh-hans:
+    - 藏语广播电视与播音主持概论
+  author: http://purl.bdrc.io/resource/P1KG6166
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    b4e1dd73d846458491a2576c003811ed:
+      title: པོད ༡་བོད་སྐད་རླུང་འཕྲིན་བརྙན་འཕྲིན་གྱི་བཤད་མཁན་དང་འགོ་འཛིན་པའི་ཤེས་བྱ་བློ་གསལ་མགུལ་རྒྱན།
+      volume_number: 1
+      base_file: UT1KG6164_I1KG8431_0000.txt
+      reference: http://purl.bdrc.io/resource/VL3CC4EAD0E09B5537
+      image_group: I1KG8431
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG6164
+  - http://purl.bdrc.io/resource/MW1KG6164
+  ocr_software: Namsel
+created_at: '2021-12-22T10:56:51.917486'
+last_modified_at: '2021-12-22T10:56:51.917491'
